@@ -66,7 +66,7 @@ export default function Largo() {
           content="Expert boat removal services in Largo, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-largo" />
+        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-largo" />
       </Helmet>
      <Header cityName="Largo" />
       

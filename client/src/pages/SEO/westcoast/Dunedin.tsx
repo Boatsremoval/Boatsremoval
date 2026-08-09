@@ -64,7 +64,7 @@ export default function Dunedin() {
           content="Expert boat removal services in Dunedin, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-dunedin" />
+        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-dunedin" />
       </Helmet>
      <Header cityName="Dunedin" />
       

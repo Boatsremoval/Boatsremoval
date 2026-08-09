@@ -64,7 +64,7 @@ export default function LelyResort() {
           content="Expert boat removal services in Lely Resort, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-lely-resort" />
+        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-lely-resort" />
       </Helmet>
      <Header cityName="Lely Resort" />
       

@@ -62,7 +62,7 @@ export default function MadeiraBeach() {
           content="Expert boat removal services in Madeira Beach, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-madeira-beach" />
+        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-madeira-beach" />
       </Helmet>
      <Header cityName="Madeira Beach" />
       

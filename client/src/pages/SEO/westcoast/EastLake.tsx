@@ -64,7 +64,7 @@ export default function EastLake() {
           content="Expert boat removal services in East Lake, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-east-lake" />
+        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-east-lake" />
       </Helmet>
      <Header cityName="East Lake" />
       

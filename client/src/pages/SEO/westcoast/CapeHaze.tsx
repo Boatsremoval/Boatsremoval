@@ -65,7 +65,7 @@ export default function CapeHaze() {
           content="Expert boat removal services in Cape Haze, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-cape-haze" />
+        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-cape-haze" />
       </Helmet>
      <Header cityName="Cape Haze" />
       

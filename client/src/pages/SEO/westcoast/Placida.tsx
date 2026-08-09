@@ -63,7 +63,7 @@ export default function Placida() {
           content="Expert boat removal services in Placida, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-placida" />
+        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-placida" />
       </Helmet>
      <Header cityName="Placida" />
       

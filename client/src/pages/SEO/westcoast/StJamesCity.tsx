@@ -64,7 +64,7 @@ export default function StJamesCity() {
           content="Expert boat removal services in St. James City, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-st-james-city" />
+        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-st-james-city" />
       </Helmet>
      <Header cityName="St. James City" />
       

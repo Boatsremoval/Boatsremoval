@@ -62,7 +62,7 @@ export default function Sarasota() {
           content="Expert boat removal services in Sarasota, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-sarasota" />
+        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-sarasota" />
       </Helmet>
      <Header cityName="Sarasota" />
       

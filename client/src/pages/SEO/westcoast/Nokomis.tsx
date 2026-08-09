@@ -62,7 +62,7 @@ export default function Nokomis() {
           content="Expert boat removal services in Nokomis, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-nokomis" />
+        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-nokomis" />
       </Helmet>
      <Header cityName="Nokomis" />
       

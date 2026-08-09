@@ -63,7 +63,7 @@ export default function BayshoreGardens() {
           content="Expert boat removal services in Bayshore Gardens, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-bayshore-gardens" />
+        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-bayshore-gardens" />
       </Helmet>
      <Header cityName="Bayshore Gardens" />
       

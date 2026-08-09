@@ -69,7 +69,7 @@ export default function Tampa() {
           content="Expert boat removal services in Tampa, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-tampa" />
+        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-tampa" />
       </Helmet>
      <Header cityName="Tampa" />
       

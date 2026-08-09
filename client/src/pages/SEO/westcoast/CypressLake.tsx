@@ -64,7 +64,7 @@ export default function CypressLake() {
           content="Expert boat removal services in Cypress Lake, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-cypress-lake" />
+        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-cypress-lake" />
       </Helmet>
      <Header cityName="Cypress Lake" />
       

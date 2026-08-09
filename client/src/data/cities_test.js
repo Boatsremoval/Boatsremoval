@@ -3,7 +3,7 @@ export const allCities = [
 { name: "Bayonet Point", lat: 28.2943, lon: -82.6955, county: "Pasco" },
 { name: "Port Richey", lat: 28.2433, lon: -82.7209, county: "Pasco" },
 { name: "New Port Richey", lat: 28.2522, lon: -82.7186, county: "Pasco" },
-{ name: "Odessa", lat: 28.1600, lon: -82.5962, county: "Pasco" },
+{ name: "Odessa", lat: 28.1600, lon: -82.5962, county: "Pasco" }, 
 { name: "Land O' Lakes", lat: 28.2122, lon: -82.4281, county: "Pasco" },
 { name: "Lutz", lat: 28.1328, lon: -82.4701, county: "Hillsborough" },
 { name: "University", lat: 27.9435, lon: -82.5033, county: "Hillsborough" },

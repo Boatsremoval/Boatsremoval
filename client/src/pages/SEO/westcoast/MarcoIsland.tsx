@@ -65,7 +65,7 @@ export default function MarcoIsland() {
           content="Expert boat removal services in Marco Island, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-marco-island" />
+        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-marco-island" />
       </Helmet>
      <Header cityName="Marco Island" />
       
