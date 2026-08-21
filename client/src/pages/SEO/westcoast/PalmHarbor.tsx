@@ -64,7 +64,7 @@ export default function PalmHarbor() {
           content="Expert boat removal services in Palm Harbor, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-palm-harbor" />
+        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-palm-harbor" />
       </Helmet>
      <Header cityName="Palm Harbor" />
       

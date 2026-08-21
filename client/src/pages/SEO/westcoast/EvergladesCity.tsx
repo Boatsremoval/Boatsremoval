@@ -65,7 +65,7 @@ export default function EvergladesCity() {
           content="Expert boat removal services in Everglades City, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-everglades-city" />
+        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-everglades-city" />
       </Helmet>
      <Header cityName="Everglades City" />
       

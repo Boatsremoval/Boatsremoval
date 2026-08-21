@@ -62,7 +62,7 @@ export default function BurntStoreMarina() {
           content="Expert boat removal services in Burnt Store Marina, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-burnt-store-marina" />
+        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-burnt-store-marina" />
       </Helmet>
      <Header cityName="Burnt Store Marina" />
       

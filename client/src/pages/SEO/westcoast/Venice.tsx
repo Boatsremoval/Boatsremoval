@@ -63,7 +63,7 @@ export default function Venice() {
           content="Expert boat removal services in Venice, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-venice" />
+        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-venice" />
       </Helmet>
      <Header cityName="Venice" />
       

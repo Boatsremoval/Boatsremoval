@@ -64,7 +64,7 @@ export default function Aventura() {
           content="Expert boat removal services in Aventura, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-aventura" />
+        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-aventura" />
       </Helmet>
      <Header cityName="Aventura" />
       

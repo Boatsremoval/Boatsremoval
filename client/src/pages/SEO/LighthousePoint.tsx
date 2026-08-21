@@ -64,7 +64,7 @@ export default function LighthousePoint() {
           content="Expert boat removal services in Lighthouse Point, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-lighthouse-point" />
+        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-lighthouse-point" />
       </Helmet>
      <Header cityName="Lighthouse Point" />
       

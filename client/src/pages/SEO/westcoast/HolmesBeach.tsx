@@ -63,7 +63,7 @@ export default function HolmesBeach() {
           content="Expert boat removal services in Holmes Beach, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-holmes-beach" />
+        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-holmes-beach" />
       </Helmet>
      <Header cityName="Holmes Beach" />
       

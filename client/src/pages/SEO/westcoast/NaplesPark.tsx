@@ -64,7 +64,7 @@ export default function NaplesPark() {
           content="Expert boat removal services in Naples Park, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-naples-park" />
+        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-naples-park" />
       </Helmet>
      <Header cityName="Naples Park" />
       

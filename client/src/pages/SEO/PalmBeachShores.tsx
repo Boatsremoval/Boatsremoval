@@ -64,7 +64,7 @@ export default function PalmBeachShores() {
           content="Expert boat removal services in Palm Beach Shores, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-palm-beach-shores" />
+        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-palm-beach-shores" />
       </Helmet>
      <Header cityName="Palm Beach Shores" />
       

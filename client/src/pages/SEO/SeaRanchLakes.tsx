@@ -64,7 +64,7 @@ export default function SeaRanchLakes() {
           content="Expert boat removal services in Sea Ranch Lakes, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-sea-ranch-lakes" />
+        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-sea-ranch-lakes" />
       </Helmet>
      <Header cityName="Sea Ranch Lakes" />
       

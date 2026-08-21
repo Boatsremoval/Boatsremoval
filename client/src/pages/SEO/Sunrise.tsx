@@ -64,7 +64,7 @@ export default function Sunrise() {
           content="Expert boat removal services in Sunrise, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-sunrise" />
+        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-sunrise" />
       </Helmet>
      <Header cityName="Sunrise" />
       

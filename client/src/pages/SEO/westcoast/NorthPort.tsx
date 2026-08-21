@@ -63,7 +63,7 @@ export default function NorthPort() {
           content="Expert boat removal services in North Port, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-north-port" />
+        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-north-port" />
       </Helmet>
      <Header cityName="North Port" />
       

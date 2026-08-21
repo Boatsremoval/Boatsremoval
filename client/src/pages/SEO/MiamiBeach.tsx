@@ -64,7 +64,7 @@ export default function MiamiBeach() {
           content="Expert boat removal services in Miami Beach, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-miami-beach" />
+        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-miami-beach" />
       </Helmet>
      <Header cityName="Miami Beach" />
       

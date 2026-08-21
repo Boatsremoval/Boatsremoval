@@ -64,7 +64,7 @@ export default function SouthPalmBeach() {
           content="Expert boat removal services in South Palm Beach, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-south-palm-beach" />
+        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-south-palm-beach" />
       </Helmet>
      <Header cityName="South Palm Beach" />
       

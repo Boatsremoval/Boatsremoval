@@ -63,7 +63,7 @@ export default function ManasotaKey() {
           content="Expert boat removal services in Manasota Key, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-manasota-key" />
+        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-manasota-key" />
       </Helmet>
      <Header cityName="Manasota Key" />
       

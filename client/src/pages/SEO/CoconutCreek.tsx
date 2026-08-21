@@ -65,7 +65,7 @@ export default function CoconutCreek() {
           content="Expert boat removal services in Coconut Creek, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-coconut-creek" />
+        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-coconut-creek" />
       </Helmet>
      <Header cityName="Coconut Creek" />
       

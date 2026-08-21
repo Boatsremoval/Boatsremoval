@@ -64,7 +64,7 @@ export default function PembrokePines() {
           content="Expert boat removal services in Pembroke Pines, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-pembroke-pines" />
+        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-pembroke-pines" />
       </Helmet>
      <Header cityName="Pembroke Pines" />
       

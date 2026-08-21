@@ -64,7 +64,7 @@ export default function RoyalPalmBeach() {
           content="Expert boat removal services in Royal Palm Beach, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-royal-palm-beach" />
+        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-royal-palm-beach" />
       </Helmet>
      <Header cityName="Royal Palm Beach" />
       

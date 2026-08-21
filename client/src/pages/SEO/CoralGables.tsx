@@ -65,7 +65,7 @@ export default function CoralGables() {
           content="Expert boat removal services in Coral Gables, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-coral-gables" />
+        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-coral-gables" />
       </Helmet>
      <Header cityName="Coral Gables" />
       

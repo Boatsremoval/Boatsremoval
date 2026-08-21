@@ -63,7 +63,7 @@ export default function Seffner() {
           content="Expert boat removal services in Seffner, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-seffner" />
+        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-seffner" />
       </Helmet>
      <Header cityName="Seffner" />
       

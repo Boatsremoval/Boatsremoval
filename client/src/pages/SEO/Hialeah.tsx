@@ -64,7 +64,7 @@ export default function Hialeah() {
           content="Expert boat removal services in Hialeah, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-hialeah" />
+        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-hialeah" />
       </Helmet>
      <Header cityName="Hialeah" />
       

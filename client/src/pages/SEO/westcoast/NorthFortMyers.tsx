@@ -64,7 +64,7 @@ export default function NorthFortMyers() {
           content="Expert boat removal services in North Fort Myers, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-north-fort-myers" />
+        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-north-fort-myers" />
       </Helmet>
      <Header cityName="North Fort Myers" />
       
