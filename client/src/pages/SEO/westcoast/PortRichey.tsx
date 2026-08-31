@@ -63,7 +63,7 @@ export default function PortRichey() {
           content="Expert boat removal services in Port Richey, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-port-richey" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-port-richey" />
       </Helmet>
      <Header cityName="Port Richey" />
       

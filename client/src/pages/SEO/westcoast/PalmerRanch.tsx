@@ -62,7 +62,7 @@ export default function PalmerRanch() {
           content="Expert boat removal services in Palmer Ranch, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-palmer-ranch" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-palmer-ranch" />
       </Helmet>
      <Header cityName="Palmer Ranch" />
       

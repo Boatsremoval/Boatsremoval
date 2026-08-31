@@ -64,7 +64,7 @@ export default function Tice() {
           content="Expert boat removal services in Tice, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-tice" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-tice" />
       </Helmet>
      <Header cityName="Tice" />
       

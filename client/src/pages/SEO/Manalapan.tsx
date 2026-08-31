@@ -64,7 +64,7 @@ export default function Manalapan() {
           content="Expert boat removal services in Manalapan, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-manalapan" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-manalapan" />
       </Helmet>
      <Header cityName="Manalapan" />
       

@@ -64,7 +64,7 @@ export default function GulfStream() {
           content="Expert boat removal services in Gulf Stream, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-gulf-stream" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-gulf-stream" />
       </Helmet>
      <Header cityName="Gulf Stream" />
       

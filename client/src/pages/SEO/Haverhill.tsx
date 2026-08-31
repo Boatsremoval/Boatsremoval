@@ -64,7 +64,7 @@ export default function Haverhill() {
           content="Expert boat removal services in Haverhill, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-haverhill" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-haverhill" />
       </Helmet>
      <Header cityName="Haverhill" />
       

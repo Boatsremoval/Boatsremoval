@@ -64,7 +64,7 @@ export default function SunnyIslesBeach() {
           content="Expert boat removal services in Sunny Isles Beach, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-sunny-isles-beach" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-sunny-isles-beach" />
       </Helmet>
      <Header cityName="Sunny Isles Beach" />
       

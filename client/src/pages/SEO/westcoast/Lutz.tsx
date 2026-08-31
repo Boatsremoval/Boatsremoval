@@ -62,7 +62,7 @@ export default function Lutz() {
           content="Expert boat removal services in Lutz, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-lutz" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-lutz" />
       </Helmet>
      <Header cityName="Lutz" />
       

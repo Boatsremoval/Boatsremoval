@@ -22,7 +22,7 @@ export default function ServiceAreaList({ cities }: Props) {
       "@type": "ListItem",
       "position": index + 1,
       "name": `${city.name}, Fl Boat Removal`,
-      "url": `https://www.boatsremoval.com/boat-removal-fl-${slugifyCity(city.name)}`
+      "url": `https://boatsremoval.com/boat-removal-fl-${slugifyCity(city.name)}`
     }))
   };
 

@@ -63,7 +63,7 @@ export default function PortCharlotte() {
           content="Expert boat removal services in Port Charlotte, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-port-charlotte" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-port-charlotte" />
       </Helmet>
      <Header cityName="Port Charlotte" />
       

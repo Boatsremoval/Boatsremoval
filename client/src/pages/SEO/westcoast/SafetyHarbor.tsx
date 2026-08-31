@@ -64,7 +64,7 @@ export default function SafetyHarbor() {
           content="Expert boat removal services in Safety Harbor, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-safety-harbor" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-safety-harbor" />
       </Helmet>
      <Header cityName="Safety Harbor" />
       

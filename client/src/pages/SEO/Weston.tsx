@@ -64,7 +64,7 @@ export default function Weston() {
           content="Expert boat removal services in Weston, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-weston" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-weston" />
       </Helmet>
      <Header cityName="Weston" />
       

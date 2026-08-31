@@ -63,7 +63,7 @@ export default function Ellenton() {
           content="Expert boat removal services in Ellenton, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-ellenton" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-ellenton" />
       </Helmet>
      <Header cityName="Ellenton" />
       

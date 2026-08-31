@@ -63,7 +63,7 @@ export default function Englewood() {
           content="Expert boat removal services in Englewood, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-englewood" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-englewood" />
       </Helmet>
      <Header cityName="Englewood" />
       

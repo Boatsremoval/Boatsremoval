@@ -63,7 +63,7 @@ export default function NewPortRichey() {
           content="Expert boat removal services in New Port Richey, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-new-port-richey" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-new-port-richey" />
       </Helmet>
      <Header cityName="New Port Richey" />
       

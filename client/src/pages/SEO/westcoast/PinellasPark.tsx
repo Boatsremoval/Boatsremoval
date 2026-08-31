@@ -63,7 +63,7 @@ export default function PinellasPark() {
           content="Expert boat removal services in Pinellas Park, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-pinellas-park" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-pinellas-park" />
       </Helmet>
      <Header cityName="Pinellas Park" />
       

@@ -62,7 +62,7 @@ export default function StPeteBeach() {
           content="Expert boat removal services in St. Pete Beach, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-st-pete-beach" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-st-pete-beach" />
       </Helmet>
      <Header cityName="St. Pete Beach" />
       

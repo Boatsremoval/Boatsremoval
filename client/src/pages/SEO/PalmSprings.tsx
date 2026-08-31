@@ -64,7 +64,7 @@ export default function PalmSprings() {
           content="Expert boat removal services in Palm Springs, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-palm-springs" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-palm-springs" />
       </Helmet>
      <Header cityName="Palm Springs" />
       

@@ -62,7 +62,7 @@ export default function WarmMineralSprings() {
           content="Expert boat removal services in Warm Mineral Springs, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-warm-mineral-springs" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-warm-mineral-springs" />
       </Helmet>
      <Header cityName="Warm Mineral Springs" />
       

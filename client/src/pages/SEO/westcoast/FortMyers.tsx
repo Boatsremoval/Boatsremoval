@@ -64,7 +64,7 @@ export default function FortMyers() {
           content="Expert boat removal services in Fort Myers, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-fort-myers" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-fort-myers" />
       </Helmet>
      <Header cityName="Fort Myers" />
       

@@ -66,7 +66,7 @@ export default function CooperCity() {
           content="Expert boat removal services in Cooper City, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-cooper-city" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-cooper-city" />
       </Helmet>
      <Header cityName="Cooper City" />
       

@@ -64,7 +64,7 @@ export default function PalmBeachGardens() {
           content="Expert boat removal services in Palm Beach Gardens, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-palm-beach-gardens" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-palm-beach-gardens" />
       </Helmet>
      <Header cityName="Palm Beach Gardens" />
       

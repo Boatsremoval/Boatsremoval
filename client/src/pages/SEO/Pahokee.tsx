@@ -64,7 +64,7 @@ export default function Pahokee() {
           content="Expert boat removal services in Pahokee, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-pahokee" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-pahokee" />
       </Helmet>
      <Header cityName="Pahokee" />
       

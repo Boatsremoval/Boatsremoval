@@ -62,7 +62,7 @@ export default function IndianShores() {
           content="Expert boat removal services in Indian Shores, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-indian-shores" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-indian-shores" />
       </Helmet>
      <Header cityName="Indian Shores" />
       

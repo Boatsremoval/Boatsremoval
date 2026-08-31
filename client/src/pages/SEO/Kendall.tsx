@@ -64,7 +64,7 @@ export default function Kendall() {
           content="Expert boat removal services in Kendall, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-kendall" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-kendall" />
       </Helmet>
      <Header cityName="Kendall" />
       

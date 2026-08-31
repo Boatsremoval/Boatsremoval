@@ -65,7 +65,7 @@ export default function Chokoloskee() {
           content="Expert boat removal services in Chokoloskee, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-chokoloskee" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-chokoloskee" />
       </Helmet>
      <Header cityName="Chokoloskee" />
       

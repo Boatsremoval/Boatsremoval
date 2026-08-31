@@ -64,7 +64,7 @@ export default function Matlacha() {
           content="Expert boat removal services in Matlacha, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-matlacha" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-matlacha" />
       </Helmet>
      <Header cityName="Matlacha" />
       

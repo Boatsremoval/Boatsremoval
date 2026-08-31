@@ -64,7 +64,7 @@ export default function Naples() {
           content="Expert boat removal services in Naples, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-naples" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-naples" />
       </Helmet>
      <Header cityName="Naples" />
       

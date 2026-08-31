@@ -66,7 +66,7 @@ export default function CloudLake() {
           content="Expert boat removal services in Cloud Lake, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-cloud-lake" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-cloud-lake" />
       </Helmet>
      <Header cityName="Cloud Lake" />
       

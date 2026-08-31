@@ -64,7 +64,7 @@ export default function Wellington() {
           content="Expert boat removal services in Wellington, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-wellington" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-wellington" />
       </Helmet>
      <Header cityName="Wellington" />
       

@@ -63,7 +63,7 @@ export default function PelicanMarsh() {
           content="Expert boat removal services in Pelican Marsh, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-pelican-marsh" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-pelican-marsh" />
       </Helmet>
      <Header cityName="Pelican Marsh" />
       

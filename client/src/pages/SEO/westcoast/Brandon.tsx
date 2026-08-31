@@ -63,7 +63,7 @@ export default function Brandon() {
           content="Expert boat removal services in Brandon, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-brandon" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-brandon" />
       </Helmet>
      <Header cityName="Brandon" />
       

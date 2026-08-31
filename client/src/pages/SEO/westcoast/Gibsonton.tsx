@@ -63,7 +63,7 @@ export default function Gibsonton() {
           content="Expert boat removal services in Gibsonton, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-gibsonton" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-gibsonton" />
       </Helmet>
      <Header cityName="Gibsonton" />
       

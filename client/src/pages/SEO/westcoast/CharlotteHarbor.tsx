@@ -63,7 +63,7 @@ export default function CharlotteHarbor() {
           content="Expert boat removal services in Charlotte Harbor, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-charlotte-harbor" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-charlotte-harbor" />
       </Helmet>
      <Header cityName="Charlotte Harbor" />
       

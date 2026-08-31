@@ -64,7 +64,7 @@ export default function OceanRidge() {
           content="Expert boat removal services in Ocean Ridge, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-ocean-ridge" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-ocean-ridge" />
       </Helmet>
      <Header cityName="Ocean Ridge" />
       

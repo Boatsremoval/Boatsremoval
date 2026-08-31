@@ -63,7 +63,7 @@ export default function LandOLakes() {
           content="Expert boat removal services in Land O' Lakes, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-land-o-lakes" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-land-o-lakes" />
       </Helmet>
      <Header cityName="Land O' Lakes" />
       

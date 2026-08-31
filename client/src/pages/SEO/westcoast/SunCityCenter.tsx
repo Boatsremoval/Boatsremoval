@@ -62,7 +62,7 @@ export default function SunCityCenter() {
           content="Expert boat removal services in Sun City Center, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-sun-city-center" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-sun-city-center" />
       </Helmet>
      <Header cityName="Sun City Center" />
       

@@ -63,7 +63,7 @@ export default function Thonotosassa() {
           content="Expert boat removal services in Thonotosassa, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-thonotosassa" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-thonotosassa" />
       </Helmet>
      <Header cityName="Thonotosassa" />
       

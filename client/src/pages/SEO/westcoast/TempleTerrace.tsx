@@ -63,7 +63,7 @@ export default function TempleTerrace() {
           content="Expert boat removal services in Temple Terrace, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-temple-terrace" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-temple-terrace" />
       </Helmet>
      <Header cityName="Temple Terrace" />
       

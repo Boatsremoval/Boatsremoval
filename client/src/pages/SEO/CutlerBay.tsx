@@ -66,7 +66,7 @@ export default function CutlerBay() {
           content="Expert boat removal services in Cutler Bay, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-cutler-bay" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-cutler-bay" />
       </Helmet>
      <Header cityName="Cutler Bay" />
       

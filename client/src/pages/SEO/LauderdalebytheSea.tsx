@@ -64,7 +64,7 @@ export default function LauderdalebytheSea() {
           content="Expert boat removal services in Lauderdale-by-the-Sea, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-lauderdale-by-the-sea" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-lauderdale-by-the-sea" />
       </Helmet>
      <Header cityName="Lauderdale-by-the-Sea" />
       

@@ -62,7 +62,7 @@ export default function Bradenton() {
           content="Expert boat removal services in Bradenton, Florida. Free quotes, same-day service, eco-friendly disposal." 
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://www.boatsremoval.com/boat-removal-fl-bradenton" />
+        <link rel="canonical" href="https://boatsremoval.com/boat-removal-fl-bradenton" />
       </Helmet>
      <Header cityName="Bradenton" />
       
