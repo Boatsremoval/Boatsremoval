@@ -1,4 +1,5 @@
 import { Link } from "wouter";
+import { Helmet } from "react-helmet-async";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Forklift, PhoneCall, Recycle } from "lucide-react";
 import heroImage from "@assets/Main3.webp";
@@ -52,6 +53,9 @@ const faqs = [
 export default function JunkBoatRemoval() {
   return (
   <>
+  <Helmet>
+    <link rel="canonical" href="https://boatsremoval.com/junk-boat-removal" />
+  </Helmet>
   <Header />
 
      <main className="bg-secondary">

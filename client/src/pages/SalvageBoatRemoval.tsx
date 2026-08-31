@@ -1,4 +1,5 @@
 import { Link } from "wouter";
+import { Helmet } from "react-helmet-async";
 import { CheckCircle } from "lucide-react";
 import heroImage from "@assets/Main4.webp";
 import Header from "@/components/Header";
@@ -45,6 +46,9 @@ const faqs = [
 export default function SalvageBoatRemoval() {
   return (
   <>
+  <Helmet>
+    <link rel="canonical" href="https://boatsremoval.com/salvage-boat-removal" />
+  </Helmet>
   <Header />
 
      <main className="bg-secondary">

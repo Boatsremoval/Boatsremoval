@@ -78,7 +78,7 @@ export default function TampaBoatRemoval() {
           content="Expert boat removal services across Tampa Bay and nearby towns. Free quotes, eco-friendly disposal, careful canal operations, and reliable scheduling for marinas, HOAs, and residential properties."
         />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://boatsremoval.com/tampa-bay-boat-removal" />
+        <link rel="canonical" href="https://boatsremoval.com/tampa-boat-removal" />
       </Helmet>
 
       <Header />

@@ -1,4 +1,5 @@
 import { useRef, useState, useEffect } from "react";
+import { Helmet } from "react-helmet-async";
 import heroImage from "@assets/Main_photo.webp";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
@@ -56,7 +57,10 @@ export default function About() {
 
   return (
 <>
-<Header />    
+<Helmet>
+  <link rel="canonical" href="https://boatsremoval.com/about" />
+</Helmet>
+<Header />
 
     <main className="bg-secondary">
         <section className="relative w-full bg-secondary">

@@ -1,4 +1,5 @@
 import { Link } from "wouter";
+import { Helmet } from "react-helmet-async";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Trash, Ship, Waves } from "lucide-react";
@@ -12,6 +13,9 @@ import Ready from "@/components/Ready";
 export default function Services() {
   return (
   <>
+  <Helmet>
+    <link rel="canonical" href="https://boatsremoval.com/services" />
+  </Helmet>
   <Header />
 
      <main className="bg-secondary">

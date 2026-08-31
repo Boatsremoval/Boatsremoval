@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { useLocation } from "wouter";
+import { Helmet } from "react-helmet-async";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
@@ -235,6 +236,9 @@ export default function Quote() {
   
   return (
     <div className="min-h-screen flex flex-col">
+      <Helmet>
+        <link rel="canonical" href="https://boatsremoval.com/quote" />
+      </Helmet>
       <Header />
       <main className="flex-1 pt-20 md:pt-24 pb-16 bg-muted">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
