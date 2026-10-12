@@ -1,5 +1,5 @@
 // Runs after the Vite builds: writes a real HTML file for every page,
-// plus sitemap1.xml, robots.txt and 404.html.
+// plus sitemap.xml, sitemap1.xml, robots.txt and 404.html.
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -27,10 +27,13 @@ fs.writeFileSync(path.join(out, '404.html'), page('/__not-found__'));
 
 const today = new Date().toISOString().slice(0, 10);
 const urls = ALL_PATHS.map((p) => `  <url><loc>${SITE.url}${p}</loc><lastmod>${today}</lastmod></url>`).join('\n');
-fs.writeFileSync(
-  path.join(out, 'sitemap1.xml'),
-  `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls}\n</urlset>\n`
-);
-fs.writeFileSync(path.join(out, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${SITE.url}/sitemap1.xml\n`);
+const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls}\n</urlset>\n`;
 
-console.log(`Prerendered ${ALL_PATHS.length} pages + 404, sitemap1.xml, robots.txt`);
+// The same sitemap is published at both addresses
+const SITEMAP_FILES = ['sitemap.xml', 'sitemap1.xml'];
+for (const name of SITEMAP_FILES) fs.writeFileSync(path.join(out, name), sitemap);
+
+const sitemapLines = SITEMAP_FILES.map((name) => `Sitemap: ${SITE.url}/${name}`).join('\n');
+fs.writeFileSync(path.join(out, 'robots.txt'), `User-agent: *\nAllow: /\n${sitemapLines}\n`);
+
+console.log(`Prerendered ${ALL_PATHS.length} pages + 404, ${SITEMAP_FILES.join(', ')}, robots.txt`);
